@@ -48,7 +48,7 @@ Medical Students in Malawi
 
 Medical Research and Ethical Medical Experimentation
 
-Screening: [*The Lynchburg Story*](https://www.youtube.com/watch?v=51nRsof66Z0)
+Screening: {{% resource_link "e6a6d85e-8cee-4f94-9e33-affbb902c3b9" "*The Lynchburg Story*" %}}
 
 {{< tdclose >}}{{< tdopen >}}
 Paper 1 due
@@ -64,7 +64,7 @@ Contemporary Approaches to Autonomy, Consent, Disclosure, and Culture
 
 Biological Citizenship? Cancer and AIDS in Africa
 
-Screening: [*It's My Life*](http://icarusfilms.com/new2002/mlife.html)
+Screening: {{% resource_link "784b9c78-a700-4953-965f-67c41710d267" "*It's My Life*" %}}
 
 {{< tdclose >}}{{< tdopen >}}
  
@@ -74,7 +74,7 @@ Screening: [*It's My Life*](http://icarusfilms.com/new2002/mlife.html)
 
 Human Subjects Research, Pharmaceuticals, and Resource-Poor Settings
 
-Screening: [*Uganda – Your Money Or Your Life*](http://www.journeyman.tv/?lid=9006)
+Screening: {{% resource_link "6f99074e-52e5-4593-8cfc-b7d7da0c37df" "*Uganda – Your Money Or Your Life*" %}}
 
 {{< tdclose >}}{{< tdopen >}}
  
@@ -86,7 +86,7 @@ Screening: [*Uganda – Your Money Or Your Life*](http://www.journeyman.tv/?lid=
 
 Reproduction, Contraception, and Abortion
 
-Screening: [*Skin Deep: Norplant in Poor Communities*](http://www.youtube.com/watch?v=5HEIKzld1sk) and [*12*](http://www.imdb.com/title/tt1548865/){{< sup "th" >}} [*& Delaware*](http://www.imdb.com/title/tt1548865/)
+Screening: {{% resource_link "e1adb302-6efd-4591-92fc-ef1ef590928f" "*Skin Deep: Norplant in Poor Communities*" %}} and {{% resource_link "38826a4a-21ec-4d47-8d5a-b09f91fd7aae" "*12*" %}}{{< sup "th" >}} {{% resource_link "38826a4a-21ec-4d47-8d5a-b09f91fd7aae" "*& Delaware*" %}}
 
 {{< tdclose >}}{{< tdopen >}}
 Paper 2 due
@@ -116,7 +116,7 @@ New Reproductive Technologies and International Reproductive Tourism
 
 Representing Medical Humanitarianism in Film
 
-Screening: [*Living in Emergency: Stories of Doctors Without Borders*](http://vimeo.com/29121376)
+Screening: {{% resource_link "5f49cc22-2109-40d0-8e71-d8b75dfb8f57" "*Living in Emergency: Stories of Doctors Without Borders*" %}}
 
 {{< tdclose >}}{{< tdopen >}}
  

@@ -25,7 +25,7 @@ Provide some background on the author(s) for that day's reading (please search b
 
 ## Papers
 
-There will be three 2500–word papers (not including notes and the bibliography) due during the course of the semester. The topics will be announced in advance. Please take advantage of the [Writing and Communication Center](http://cmsw.mit.edu/writing-and-communication-center/) at any stage in your writing.
+There will be three 2500–word papers (not including notes and the bibliography) due during the course of the semester. The topics will be announced in advance. Please take advantage of the {{% resource_link "f451849f-f0dd-41b1-8395-9bb508037127" "Writing and Communication Center" %}} at any stage in your writing.
 
 {{% resource_link 8713a424-e221-e439-3c66-4465eb7d5990 "Paper 1 (PDF)" %}}
 
@@ -35,7 +35,7 @@ There will be three 2500–word papers (not including notes and the bibliography
 
 *Note on Grading of Papers*
 
-A crucial aspect of how these papers will be evaluated is the articulation of a strong thesis statement that is supported by a cogent argument. Arguments cannot be solely polemical, but must derive from a clear, well- supported evaluation of the readings, lecture materials, videos, films—or in the case of research papers, a diverse set of sources, materials, or original data that are applied to an original topic, but also build on the materials in this course. In all papers (except for the reading responses), use the citation style of the [American Anthropological Association Style Guide (PDF)](http://www.aaanet.org/publications/style_guide.pdf). Do include a bibliography in your formal papers.
+A crucial aspect of how these papers will be evaluated is the articulation of a strong thesis statement that is supported by a cogent argument. Arguments cannot be solely polemical, but must derive from a clear, well- supported evaluation of the readings, lecture materials, videos, films—or in the case of research papers, a diverse set of sources, materials, or original data that are applied to an original topic, but also build on the materials in this course. In all papers (except for the reading responses), use the citation style of the {{% resource_link "6cfa34a1-3a25-46a5-bb4c-60071e16a929" "American Anthropological Association Style Guide (PDF)" %}}. Do include a bibliography in your formal papers.
 
 **D-range or Failing Papers** (we won't have any of these right?), do not have a clear thesis, fail to demonstrate that the writer has completed the majority of the readings (or source materials for a research paper), tend to be repetitive, and are often based on opinion rather than careful assessment of the materials consulted for the paper. The paper's structure is frequently hard to follow and its conclusions lack clarity.
 
